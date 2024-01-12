@@ -2,7 +2,7 @@
 
 for running the App use "node server.js"
 
-Technologies and librarires that has been used to create this app as follows:
+Technologies and libraries that has been used to create this app as follows:
 
 1) Express: Node.js Framework
 
