@@ -1,8 +1,6 @@
 # gmail_mailbox
 
-for running the App Use
-
-node server.js
+for running the App use "node server.js"
 
 Technologies and librarires that has been used to create this app as follows:
 
