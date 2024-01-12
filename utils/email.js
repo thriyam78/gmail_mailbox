@@ -3,6 +3,7 @@ const { options } = require("../app");
 
 const sendEmail = async (options) => {
   const transporter = nodemailer.createTransport({
+    //nodemailer for sending email to the user
     service: "gmail",
     port: 465,
     secure: false,
